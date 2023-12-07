@@ -8,7 +8,7 @@ CMPE255 Team Project for the InsightfulMiners group consisting of Faiz Ahemad, N
 
 ### Overview
 
-This project, developed by the InsightfulMiners team, aims to create a robust system for cross-language topic modeling using the TF-IDF algorithm. Our goal is to enhance the understanding of multilingual content by mapping topics accurately and efficiently across documents in different languages.
+This project, developed by the InsightfulMiners team, aims to create a robust system for cross-language topic modeling. Our goal is to enhance the understanding of multilingual content by mapping topics accurately and efficiently across documents in different languages.
 
 ### Project Scope:  
 
@@ -16,9 +16,7 @@ Inclusion Criteria:
 
 - Selection of multilingual datasets for analysis.  
 
-- Development of preprocessing tools for language normalization.  
-
-- Application of TF-IDF for term importance weighting.  
+- Development of preprocessing tools for language normalization.    
 
 - Implementation of a topic modeling algorithm compatible with TF-IDF outputs.  
 
@@ -28,8 +26,6 @@ Exclusion Criteria:
 
 - Single-language datasets.  
 
-- Pre-existing topic models without TF-IDF integration.  
-
  
 
 ### Methodology:  
@@ -38,13 +34,11 @@ Exclusion Criteria:
 
 2. Preprocessing: Normalize the data by cleaning, tokenizing, and stemming to prepare for cross-language analysis.  
 
-3. TF-IDF Application: Apply the TF-IDF algorithm to highlight key terms in each language, reducing the influence of common words.  
+3. Topic Modeling: Use an advanced topic modeling algorithm (e.g., Latent Dirichlet Allocation) to identify topics within each language corpus.  
 
-4. Topic Modeling: Use an advanced topic modeling algorithm (e.g., Latent Dirichlet Allocation) to identify topics within each language corpus.  
+4. Cross-Language Alignment: Implement a strategy to align the topics discovered across different languages, possibly using bilingual dictionaries or machine translation.  
 
-5. Cross-Language Alignment: Implement a strategy to align the topics discovered across different languages, possibly using bilingual dictionaries or machine translation.  
-
-6. Evaluation: Evaluate the model's effectiveness using metrics such as coherence, perplexity, and alignment accuracy.  
+5. Evaluation: Evaluate the model's effectiveness using metrics such as coherence, perplexity, and alignment accuracy.  
 
 
 ### Deliverables:  
