@@ -45,10 +45,11 @@ Exclusion Criteria:
 
 ### Deliverables:  
 
-- A cross-language topic modeling software tool.  
+- A cross-language topic modeling software tool. [Colab](https://colab.research.google.com/drive/1BPuoVPZysZHiabkbBxaGE6C9uRBdKsKb)
+- [Dataset Used](https://drive.google.com/drive/folders/1Q1AjLzHwvQ1hbm1VMGKOEL3-EbrutyMY?usp=drive_link)
 
 - Documentation detailing the methodology, usage, and limitations of the tool.  
 
-- A final report presenting the findings, including a comparative analysis with monolingual topic models.  
+- A final report presenting the findings, including a comparative analysis with monolingual topic models. [Project Report](https://github.com/gayatribandaru/CMPE255_Team_Project_InsightfulMiners/blob/main/DM_Project_Report.pdf)
 
-- A presentation summarizing the project outcomes and potential applications. 
+- A presentation summarizing the project outcomes and potential applications. [PPT](https://github.com/gayatribandaru/CMPE255_Team_Project_InsightfulMiners/blob/main/DM_Presentation.pptx)
