@@ -6,6 +6,8 @@ CMPE255 Team Project for the InsightfulMiners group consisting of Faiz Ahemad, N
 
 - Team Members: Faiz Ahemad, Naga Gayatri, Venkatesh
 
+## Demo Link : https://drive.google.com/drive/folders/1mmnGoVC6ZUTGZNxnjjrIcGcq5Qqvx4UB?usp=drive_link
+
 ### Overview
 
 This project, developed by the InsightfulMiners team, aims to create a robust system for cross-language topic modeling. Our goal is to enhance the understanding of multilingual content by mapping topics accurately and efficiently across documents in different languages.
